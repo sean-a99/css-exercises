@@ -1,0 +1,21 @@
+
+.odd {
+    background-color: lightcoral;
+    font-family:'Verdana', 'DejaVu Sans', 'sans-serif';
+
+}
+
+#bigNblue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#greenie {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
